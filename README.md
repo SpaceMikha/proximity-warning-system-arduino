@@ -1,4 +1,4 @@
-# Proximity Warning System
+# a VERY SMPLE Proximity Warning System
 
 ## Overview
 The **Proximity Warning System** is an Arduino-based project that uses an **HC-SR04 ultrasonic sensor** to detect objects and provide **visual and auditory warnings** using LEDs and a buzzer. A **servo motor** continuously moves the sensor to scan the environment, and an LCD display shows the measured distance in real-time.
